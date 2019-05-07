@@ -22,5 +22,5 @@ $(document).ready(function (e) {
 	},"Aplicacion ","Beep,Vibrar,Cancelar");
 	
 		});
-	}.false);
+	},false);
 });
